@@ -16,9 +16,9 @@ https://giladreich.github.io/software-architecture
 
 ## Team Members
 
-**User-Interface**: [Gilad Reich ](https://github.com/giladreich)
-**Technical-Concept**: [Rico Krüger](https://github.com/B3ttm3nsch)
-**Data-Management**: [Andreas Biller](https://github.com/ndbiller) 
+- **User-Interface**: [Gilad Reich ](https://github.com/giladreich)
+- **Technical-Concept**: [Rico Krüger](https://github.com/B3ttm3nsch)
+- **Data-Management**: [Andreas Biller](https://github.com/ndbiller) 
 
 ## Problem and Tasks
 
